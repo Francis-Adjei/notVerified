@@ -1,0 +1,5 @@
+function divisorSubstring(n,k){
+    
+
+
+}
